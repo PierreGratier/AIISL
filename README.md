@@ -7,3 +7,6 @@ Monthly Notices of the Royal Astronomical Society 2016 460 (2): 1371-1381
 doi: 10.1093/mnras/stw1009
 
 http://www.vo.elte.hu/papers/2016/photoz/
+
+Run the presentation with: 
+`jupyter nbconvert --to slides --post serve AIISL.ipynb --template output_toggle.tpl`
