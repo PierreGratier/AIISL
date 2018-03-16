@@ -10,3 +10,5 @@ http://www.vo.elte.hu/papers/2016/photoz/
 
 Run the presentation with: 
 `jupyter nbconvert --to slides --post serve AIISL.ipynb --template output_toggle.tpl`
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pirg/AIISL/master)
