@@ -102,3 +102,6 @@ ENV/
 
 # html
 *.html
+
+# datafile
+data/*
