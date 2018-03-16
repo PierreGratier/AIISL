@@ -104,4 +104,4 @@ ENV/
 *.html
 
 # datafile
-data/*
+data/*.txt
