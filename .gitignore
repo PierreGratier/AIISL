@@ -105,3 +105,6 @@ ENV/
 
 # datafile
 data/*.txt
+
+# gzipped files
+*.gz
