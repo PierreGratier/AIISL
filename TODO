@@ -1,6 +1,4 @@
-- count >1sigma, >2sigma, >3sigma
 - Check slides
-- Modify timing printing
 - Have a backup for best parameters
 
 DONE
@@ -8,3 +6,4 @@ DONE
 - Finish figure for cross-validation
 - Write installation readme
 - Check Binder for scikit-garden 
+- count >1sigma, >2sigma, >3sigma
