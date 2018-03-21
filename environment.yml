@@ -1,7 +1,16 @@
-name: example-environment
-channels:
-  - conda-forge
+name: example-environmen
+
 dependencies:
-  - python
-  - pip
+  - python=3.6
+  - Cython
+  - numpy
+  - scipy
+  - matplotlib
+  - astropy
   - python-graphviz
+  - scikit-learn
+  - jupyter
+  - notebook
+  - pip:
+      - corner
+      - treeinterpreter
