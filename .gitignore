@@ -108,3 +108,9 @@ data/*.txt
 
 # gzipped files
 *.gz
+
+# pdfs
+*.pdf
+
+# Graphviz files
+*.gv
