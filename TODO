@@ -1,5 +1,5 @@
 - Check slides
-- Have a backup for best parameters
+- expand on sklearn structure
 
 DONE
 - Modify dataset download 
@@ -7,3 +7,4 @@ DONE
 - Write installation readme
 - Check Binder for scikit-garden 
 - count >1sigma, >2sigma, >3sigma
+- Have a backup for best parameters -> use faster fitting
